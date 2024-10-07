@@ -3,7 +3,7 @@
 # Author: Siddhant Jajoo.
 # ^^^ from assignments-base merge
 
-# Assignment 3 pt 2 Austin Spaulding
+# Assignment 3 pt 2 Thanushka Dilshan
 
 set -e
 set -u
